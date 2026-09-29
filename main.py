@@ -60,3 +60,4 @@ def main():
 
 if __name__ == "__main__":
   main()
+bot_response = result["candidates"][0]["content"]["parts"][0]["text"]
